@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -245,7 +245,7 @@
     <h2>About Us</h2>
     <p>
       We offer a curated collection of acid-washed tees, cropped tops, and limited-edition designs that blend comfort, bold style, and self-expression. Whether you're dressing up or keeping it casual, <strong>PATWAYS</strong> lets you wear your story with confidence.
-    </p>
+ 
     
       
     </p>
